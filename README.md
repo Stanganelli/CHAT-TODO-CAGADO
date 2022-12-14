@@ -5,3 +5,6 @@
 -npm install @react-navigation/stack
 -run npm web
 esse chat fiz pra fazer parte do tcc usando react native expo funcinou uma vez no local host dps quebrou, mas achei tão foda que vou continuar com esse projeto a parte depois que o tcc terminar
+
+
+correção: não irei terminar :-)
